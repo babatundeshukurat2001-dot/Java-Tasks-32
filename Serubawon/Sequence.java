@@ -1,0 +1,1 @@
+A sequence statement is a set of instructions that execute one after another, in the exact order they are written, from top to bottom, with no branching or repeating. Real-life example: making a cup of tea — boil water, put tea bag in cup, pour water in, add milk, stir. Each step happens once, in order.
