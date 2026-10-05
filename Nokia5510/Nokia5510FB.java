@@ -1,4 +1,4 @@
-```java
+
 import java.util.Scanner;
 
 public class Nokia5510FB {
@@ -896,5 +896,4 @@ public class Nokia5510FB {
         }
     }
 }
-```
 
